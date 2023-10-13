@@ -1,0 +1,21 @@
+{
+  "name": "brackets-plus-light",
+  "displayName": "Brackets Plus Light",
+  "description": "A color theme combining \"GitHub Plus Theme\" and \"Brackets Light Pro\"",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Brackets Plus Light",
+        "uiTheme": "vs",
+        "path": "./themes/brackets-plus-light-color-theme.json"
+      }
+    ]
+  }
+}
